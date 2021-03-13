@@ -1,0 +1,3 @@
+[submodule "secrepo"]
+	path = secrepo
+	url = git@github.com:github20210301/secrepo.git
